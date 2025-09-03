@@ -25,7 +25,16 @@ export default defineConfig({
 							label: 'Crear sucursal', slug: 'started/create-branch'
 						},
 						{
+							label: 'Editar sucursal', slug: 'started/edit-branch'
+						},
+						{
 							label: 'Crear punto de venta', slug: 'started/create-pos'
+						},
+						{
+							label: 'Editar punto de venta', slug: 'started/edit-pos'
+						},
+						{
+							label: 'Crear producto', slug: 'started/create-product'
 						},
 					]
 				},

@@ -21,7 +21,7 @@ Para crear una nueva sucursal basta con llenar los campos requeridos solicitados
 ### Configuraciones
 
 - Código del establecimiento (a opción del cliente / 4 dígitos)
-- Código de establecimiento MH (1 letra y 3 números )
+- Código de establecimiento MH (1 letra y 3 números ) este debe ir en base a al tipo de establecimiento, si es Casa matriz debe ser C001,  Punto de venta P001, Sucursal S001. Para mayor información consultar el sitio [factura.gob.sv](https://factura.gob.sv)
 
 ![Página de registro](../../../assets/branch-form.jpeg)
 
