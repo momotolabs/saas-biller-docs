@@ -36,6 +36,9 @@ export default defineConfig({
 						{
 							label: 'Crear producto', slug: 'started/create-product'
 						},
+						{
+							label: 'Crear empleado', slug: 'started/create-employe'
+						},
 					]
 				},
 				{
