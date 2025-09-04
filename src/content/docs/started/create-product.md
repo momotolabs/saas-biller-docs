@@ -51,11 +51,23 @@ Al dar clic en descargar plantilla esta se descargara automáticamente en un arc
 
 Una vez descargada la plantilla, al abrir el archivo se visualiza la siguiente tabla donde se ingresaran datos de los productos a cargar:
 
+![Página de registro](../../../assets/plantilla-producto.png)
+
 - Código del producto (este debe ser único, ya que no pueden existir productos con el mismo código )
 - Descripción del producto (Nombre del producto)
 - Tipo de producto (Bienes/Servicios /Otros )
 - Unidad de medida (seleccionar del catalogo)
 - Precio Unitario
  
-Guardar los cambios y cargar nuevamente la plantilla
+Guardar los cambios y cargar nuevamente la plantilla, dando clic en la opción Choose file
+
+![Página de registro](../../../assets/subir-archivo.png)
+
+Al haber cargado la plantilla dar clic en el botón Importar, y los productos se cargaran de forma automática y apareceran en el listado general de productos,de no estar seguro de hacer la carga de productos dar clic en el botón Cancelar.
+
+![Página de registro](../../../assets/p-registrados.png)
+
+
+
+ 
 

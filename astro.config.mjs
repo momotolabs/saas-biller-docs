@@ -35,9 +35,11 @@ export default defineConfig({
 						},
 						{
 							label: 'Crear producto', slug: 'started/create-product'
+						},{
+							label: 'Editar producto', slug: 'started/editar-productos'
 						},
 						{
-							label: 'Crear empleado', slug: 'started/create-employe'
+							label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
 						},
 					]
 				},
