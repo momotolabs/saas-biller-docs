@@ -21,12 +21,20 @@ export default defineConfig({
 						{
 							label: 'Dashboard del negocio', slug: 'started/business-dashboard'
 						},
+
 						{
-							label: 'Crear sucursal', slug: 'started/create-branch'
+							label: 'Sucursales',
+							items: [
+								{
+									label: 'Crear sucursal', slug: 'started/create-branch'
+								},
+								{
+									label: 'Editar sucursal', slug: 'started/edit-branch'
+								}, {
+									label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
+								},]
 						},
-						{
-							label: 'Editar sucursal', slug: 'started/edit-branch'
-						},
+
 						{
 							label: 'Crear punto de venta', slug: 'started/create-pos'
 						},
@@ -35,21 +43,13 @@ export default defineConfig({
 						},
 						{
 							label: 'Crear producto', slug: 'started/create-product'
-						},{
+						}, {
 							label: 'Editar producto', slug: 'started/editar-productos'
 						},
-						{
-							label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
-						},
+
 					]
 				},
-				{
-					label: 'Guias',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: '¿Cómo crear una factura de consumidor final?', slug: 'guides/create-fe' },
-					],
-				},
+
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
