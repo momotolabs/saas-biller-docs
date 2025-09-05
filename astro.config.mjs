@@ -13,7 +13,7 @@ export default defineConfig({
 					label: '¿Cómo empezar?',
 					items: [
 						{
-							label: 'Crear cuenta', slug: 'started/create-account'
+							label: 'Crear cuenta administrador', slug: 'started/create-account'
 						},
 						{
 							label: 'Crear negocio', slug: 'started/create-business'
@@ -34,18 +34,48 @@ export default defineConfig({
 									label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
 								},]
 						},
+						{
+							label: 'Puntos de venta',
+
+							items: [
+								{
+									label: 'Crear punto de venta', slug: 'started/create-pos'
+								},
+								{
+									label: 'Editar punto de venta', slug: 'started/edit-pos'
+								},]
+						},
 
 						{
-							label: 'Crear punto de venta', slug: 'started/create-pos'
+							label: 'Productos',
+
+							items: [
+
+								{
+									label: 'Crear producto', slug: 'started/create-product'
+								}, {
+
+
+									label: 'Editar producto', slug: 'started/editar-productos'
+								},]
 						},
+
 						{
-							label: 'Editar punto de venta', slug: 'started/edit-pos'
+							label: 'Empleados',
+
+							items: [
+
+								{
+									label: 'Crear empleado', slug: 'started/crear-empleado'
+								}, {
+									label: 'Roles', slug: 'started/roles-empleados'
+								}, {
+									label: 'Editar empleado', slug: 'started/editar-empleado'
+								},
+							]
 						},
-						{
-							label: 'Crear producto', slug: 'started/create-product'
-						}, {
-							label: 'Editar producto', slug: 'started/editar-productos'
-						},
+
+
 
 					]
 				},

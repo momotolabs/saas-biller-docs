@@ -5,7 +5,7 @@ description: A guide in my new Starlight docs site.
 
 Bienvenido a Billermomotolab. 
 
-## Crear cuenta
+## Crear cuenta administrador
 
 Ve a [https://biller.momotolabs.com/register](https://biller.momotolabs.com/register). Debes ingresar tu nombre completo, una dirección de correo valida y una contraseña y la confirmación de esta y dar clic en  el botón crear cuenta.
 

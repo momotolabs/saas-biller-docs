@@ -4,7 +4,7 @@ description: A guide in my new Starlight docs site.
 ---
 
 Dentro de esta sección se muestran Quick actions que hacen mas amigable la navegación dentro del sistema.
-Información del negocio como
+Información del negocio como:
 
 - Listado de sucursales (editar sucursal, puntos de venta, nuevo punto de venta, productos, nuevo producto )
 - Lista de empleados
