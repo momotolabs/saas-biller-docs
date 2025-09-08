@@ -75,6 +75,19 @@ export default defineConfig({
 							]
 						},
 
+						{
+							label: 'Clientes',
+
+							items: [
+
+								{
+									label: 'Tipos de cliente', slug: 'started/tipos-clientes'
+								},{
+									label: 'Crear clientes', slug: 'started/crear-clientes'
+								},
+							]
+						},
+
 
 
 					]

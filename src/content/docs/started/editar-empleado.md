@@ -20,6 +20,29 @@ De forma automática se despleiga el formulario de edición, con los datos del e
 
 Los datos que se pueden editar son:
 
-**Rol de usuario**
+## Rol de usuario
 
-Si el empleado era gerente puede pasar a ser operativo
+Si el empleado era gerente puede pasar a ser operativo y viceversa.
+
+## Datos generales
+
+El usuario puede modificar los siguientes datos de la información personal del empleado:
+
+- Nombre del empleado
+- Correo electrónico
+- Cambiar el Tipo de documento (DUI/NIT/Pasaporte/Carnet de residente/Otro)
+- Número de documento (Debe ser un documento valido, es decir existente y de acuerdo al tipo de documento que se selecciono)
+
+Al completar los cambios dar clic en el botón Actualizar empleado
+
+
+![Página de registro](../../../assets/actualizar-empleado.png)
+
+Automáticamente se muestra un mensaje indicando que el empleado fue actualizado correctamente
+
+
+![Página de registro](../../../assets/actualizacion-ok.png)
+
+Si no esta seguro de aplicar los cambios dar clic en el botón Cancelar
+
+![Página de registro](../../../assets/cancelar.png)
