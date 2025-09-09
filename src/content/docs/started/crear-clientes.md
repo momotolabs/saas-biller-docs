@@ -178,7 +178,7 @@ Para poder crear un cliente de indole **Natural Extranjero** se deben completar 
 ![Página de registro](../../../assets/nextranjero.png)
 
 
-¿El cliente es extranjero?
+- **¿El cliente es extranjero?**
 
 Activar el switch
 
@@ -272,14 +272,98 @@ Ingresar la razón social completa de la empresa extranjera.
 - **Nombre comercial**
 Ingresar el nombre comercial bajo el cual opera la empresa.
 
-**NRC**
-•	Ingresar el Número de Registro Contribuyente asignado por el Ministerio de Hacienda.
+- **NRC**
+Ingresar el Número de Registro Contribuyente asignado por el Ministerio de Hacienda.
 
-**NIT**
-•	Ingresar el número de identificación Tributaria.
+- **NIT**
+Ingresar el número de identificación Tributaria 
+
+- **Actividad económica**
+Seleccionar la actividad económica de la empresa.
+
+- **Correo electrónico**
+
+Ingresar una dirección de correo electrónico válida.
+
+**Nota aclaratoria: La dirección de correo es un dato único para cada cliente, es decir dos o más clientes no puedentener el mismo correo.**
+
+- **Teléfono**
+•	Ingresar el número de teléfono.
+
+- **Seleccione un departamento**
+
+Elegir el departamento de residencia.
+
+- **Seleccione un municipio**
+
+Seleccionar el municipio específico de acuerdo con el departamento seleccionado.
+Esta lista se actualiza automáticamente según el departamento seleccionado.
+
+**Dirección**
+Ingresar la dirección completa y detallada.
+
+
+Al completar los campos requeridos, dar clic en el botón **Guardar cliente**, se mostrara un mensaje indicando que el cliente fue creado exitosamente 
+
+
+![Página de registro](../../../assets/cliente1.png)
+
+Si no esta seguro de completar el registro del cliente dar clic en el botón Regresar
+
+![Página de registro](../../../assets/regresar.png)
+
+
+## Cliente Juridico Extranjero ##
+
+Para poder crear un cliente de indole **Juridico Extranjero** se deben completar los siguientes campos:
+
+
+![Página de registro](../../../assets/jextranjero.png)
+
+
+- **¿El cliente es extranjero?**
+
+Activar el switch
+
+Al activarlo se mostraran campos especificos para personas extranjeras
+
+![Página de registro](../../../assets/extranjeroswitch.png)
+
+
+Datos generales:
+
+**Tipo de cliente***
+
+![Página de registro](../../../assets/juridico.png)
+
+El sistema muestra por defecto "Persona Natural"; debe cambiarlo a "Persona Jurídica".
+
+**Nombre del cliente**
+
+Ingresar la razón social completa de la empresa extranjera.
+Tal como aparece en los documentos de constitución o registro de la empresa.
+
+**Nombre comercial**
+
+Ingresar el nombre comercial bajo el cual opera la empresa.
+
+**Tipo de documento** 
+
+Seleccionar el tipo de documento de la lista desplegable.
+
+- Pasaporte
+- Carnet de residencia 
+- Otro
+
+**Número de documento extranjero**
+
+Ingresar el número de registro o identificación fiscal de acuerdo con el tipo de documento que seleccionó.
 
 **Actividad económica**
-•	Seleccionar la actividad económica de la empresa.
+
+Seleccionar la actividad económica principal que realiza la empresa extranjera, del catalogo que se despliega
+
+**Nota: Debe corresponder al giro comercial registrado**
 
 **Correo electrónico**
 
@@ -287,21 +371,18 @@ Ingresar una dirección de correo electrónico válida.
 
 **Nota aclaratoria: La dirección de correo es un dato único para cada cliente, es decir dos o más clientes no puedentener el mismo correo.**
 
+
 **Teléfono**
-•	Ingresar el número de teléfono.
 
-**Seleccione un departamento**
+Ingresar el número teléfonico, incluyendo el código de país.
 
-•	Elegir el departamento de residencia.
+**País**
 
-**Seleccione un municipio**
-
-•	Seleccionar el municipio específico de acuerdo con el departamento seleccionado.
-•	Esta lista se actualiza automáticamente según el departamento seleccionado.
+Seleccionar el país extranjero 
 
 **Dirección**
-•	Ingresar la dirección completa y detallada.
 
+Ingresar la dirección completa y detallada de acuerdo con el país seleccionado.
 
 Al completar los campos requeridos, dar clic en el botón **Guardar cliente**, se mostrara un mensaje indicando que el cliente fue creado exitosamente 
 

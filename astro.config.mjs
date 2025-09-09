@@ -20,6 +20,8 @@ export default defineConfig({
 						},
 						{
 							label: 'Dashboard del negocio', slug: 'started/business-dashboard'
+						},{
+							label: 'Configuraciones del negocio', slug: 'started/configuraciones-negocio'
 						},
 
 						{
@@ -84,6 +86,8 @@ export default defineConfig({
 									label: 'Tipos de cliente', slug: 'started/tipos-clientes'
 								},{
 									label: 'Crear clientes', slug: 'started/crear-clientes'
+								},{
+									label: 'Editar clientes', slug: 'started/editar-cliente'
 								},
 							]
 						},
