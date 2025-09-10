@@ -17,6 +17,8 @@ export default defineConfig({
 						},
 						{
 							label: 'Crear negocio', slug: 'started/create-business'
+						},{
+							label: 'Editar negocio', slug: 'started/editar-negocio'
 						},
 						{
 							label: 'Dashboard del negocio', slug: 'started/business-dashboard'
@@ -88,6 +90,8 @@ export default defineConfig({
 									label: 'Crear clientes', slug: 'started/crear-clientes'
 								},{
 									label: 'Editar clientes', slug: 'started/editar-cliente'
+								},{
+									label: 'Eliminar clientes', slug: 'started/eliminar--cliente'
 								},
 							]
 						},

@@ -45,6 +45,16 @@ Información necesaria para la facturación
 - Número de NRC 
 - Actividad economica (seleccionar del catalogo que se despliega)
 
+Para poder realizar edición de datos **Generales del negocio y datos del Certificado** ir al pie de página y dar clic en el botón **Ir a editar negocio**
+
+![Página de registro](../../../assets/ir-a-editar-negocio.png)
+
+Se redireccionara a la sección **Negocios** 
+
+![Página de registro](../../../assets/negocios.png)
+
+
+
 ## Configuraciones de DTES ##
 
 Al ingresar a la sección **DTES** se pueden activar o desactivar los switches de los documentos que se habilitaran/ deshabilitaran para realizar la facturación 
@@ -59,6 +69,38 @@ Al ingresar a la sección **Certificado** se puede hacer la carga de un nuevo ce
 
 al realizar estos cambios dar clic en el botón **Guardar certificado**
 
+![Página de registro](../../../assets/boton-certificado.png)
 
+## Configuraciones de Imagen del negocio ##
+
+Al ingresar a la sección **Imagen** se puede realizar la carga de la primer imagen del negocio o actualizar la imagen existente.
+
+Se muestra la siguiente pantalla:
+
+![Página de registro](../../../assets/imagen-negocio.png)
+
+Para cargar una nueva imagen dar clic en la sección **Arrastra y suelta tus archivos o Examina**
+
+![Página de registro](../../../assets/imagen-negocio1.png)
+
+se despliega la pantalla para poder hacer selección y la carga de la imagen 
+
+
+![Página de registro](../../../assets/pantalla-carga.png)
+
+Dar clic en el botón abrir, la nueva imagen se carga justo abajo de la anterior 
+
+
+![Página de registro](../../../assets/carga.png)
+
+**Recuerda seguir las especificaciones de formato y tamaño de imagen permitidas**
+
+Una vez cargada la imagen dar clic en el botón guardar imagen 
+
+![Página de registro](../../../assets/boton-guardarimg.png)
+
+Automáticamente se muestra el mensaje que indica que la imagen fue cargada exitosamente
+
+![Página de registro](../../../assets/guardar-imagen.png)
 
 
