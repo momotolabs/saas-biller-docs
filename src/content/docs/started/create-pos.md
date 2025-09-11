@@ -3,18 +3,46 @@ title: Crear punto de venta
 description: A guide in my new Starlight docs site.
 ---
 
-Para crear un punto de venta dentro de una sucursal, basta posicionarse en el área de detalles, al desplegarse la pantalla  dar clic en la sección puntos de venta y  dar clic en el botón crear punto de venta que se encuentra posicionado en el lado superior derecho de la pantalla.
+Para crear un punto de venta dentro de una sucursal, accede al menú principal y haz clic en la opción Sucursales
+
+![Página de registro](../../../assets/sucursales-menu.png)
+
+Buscar el área de detalles
+
+![Página de registro](../../../assets/detalles.png)
+
+Cuando se despliegue la pantalla, haz clic en la sección Puntos de venta
 
 ![Página de registro](../../../assets/create-pos.png)
+
+ Y luego en el botón **Crear punto de venta,** ubicado en la parte superior derecha.
+
+![Página de registro](../../../assets/crear-pventa.png)
+
 
 ## Fomulario de creación de punto de venta
 
 Completar los campos requeridos para la creación del punto de venta
 
+![Página de registro](../../../assets/pos-form.png)
+
+
 - Nombre del punto de venta
 - Código del punto de venta
 - Código de punto de venta MH (proporcionado desde el sitio [factura.gob.sv](https://factura.gob.sv))
 
-Al completar los campos requeridos dar clic en el botón Crear punto de venta, si no esta seguro de completar esta acción dar clic en el botón Cancelar
+Una vez completados los campos requeridos, haz clic en el botón **Guardar punto de venta**
 
-![Página de registro](../../../assets/pos-form.png)
+![Página de registro](../../../assets/pventa-boton.png)
+
+Se muestra el mensaje de confirmación de la creación del punto de venta
+
+![Página de registro](../../../assets/pventa.png)
+
+
+Si no deseas continuar con la acción, selecciona el botón **Regresar**
+
+![Página de registro](../../../assets/regresar.png)
+
+
+

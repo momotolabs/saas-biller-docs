@@ -3,7 +3,14 @@ title: Asignar Empleado a sucursal
 description: A guide in my new Starlight docs site.
 ---
 
-Para realizar la asignación de un empleado a una sucursal, hay que posicionarse en el menú lateral inzquierdo que aparece en la pantalla, y dar clic a la sección Sucursales, posteriormente dar clic en la sección Detalles. 
+Para realizar la asignación de un empleado a una sucursal, hay que posicionarse en el menú lateral inzquierdo que aparece en la pantalla, y dar clic a la sección Sucursales, 
+
+![Página de registro](../../../assets/sucursales-menu.png)
+
+Posteriormente dar clic en la sección Detalles
+
+![Página de registro](../../../assets/detalles.png)
+
 Dentro de Detalles buscar el apartado de empleados
 
 ![Página de registro](../../../assets/emplea2.png)

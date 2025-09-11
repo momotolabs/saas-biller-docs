@@ -5,7 +5,11 @@ description: A guide in my new Starlight docs site.
 
 La opción Crear empleados permite registrar al personal que utilizará el sistema facturador, asignándole datos básicos como nombre, correo, rol de usuario, entre otros datos que son necesarios Con esta función se asegura un control adecuado de accesos y responsabilidades dentro de la plataforma.
 
-Para poder acceder al panel de empleados, basta posicionarse en el menú lateral izquierdo y seleccionar la opción Empleados, se desplegara la pantalla principal de este módulo.
+Para poder acceder al panel de empleados, basta posicionarse en el menú lateral izquierdo y seleccionar la opción Empleados
+
+![Página de registro](../../../assets/empleados.png)
+
+ se desplegara la pantalla principal de este módulo.
 
 
 ![Página de registro](../../../assets/principal-empleados.png)
@@ -20,13 +24,15 @@ Automáticamente se despliega el formulario de registro de nuevo empleado, donde
 
 Se debe asignar un rol para el nuevo empleado, los cuales pueden ser:
  
+ ![Página de registro](../../../assets/asignarrol.png)
+ 
  - Operativo
  - Gerente
 
 Si el administrador desea conocer detalles de cada rol puede dar clic en el enlace llamado **Ver detalles de roles** que esta en la parte inferior de esta sección.
 
 
-![Página de registro](../../../assets/asignarrol.png)
+
 
 ## Datos generales del empleado
 

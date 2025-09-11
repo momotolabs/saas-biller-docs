@@ -2,29 +2,43 @@
 title: Crea tu negocio
 description: A guide in my new Starlight docs site.
 ---
-
-Describir para que sirve el negocio en el sistema
-
-## Crea tu primer negocio
-
-Da click en 'Crear negocio'.
+Después de haber creado tu cuenta,automáticamente se muestra la pantalla del Dashboard del negocio
 
 ![Página de registro](../../../assets/dashboard-init.png)
 
-## Formulario de creación
+Para poder crear un negocio se puede realizar por dos vias, directamente despues de crear tu cuenta desde el botón Crear negocio 
 
-Una vez creada la cuenta veras la siguiente pantalla.
+![Página de registro](../../../assets/primero.png)
 
-### Datos generales del negocio
+O ingresando a la sección **Negocios** desde el menú principal
+
+![Página de registro](../../../assets/negocios.png)
+
+Inmediatamente se despliega la pantalla donde en la parte superior derecha de la pantalla se encuentra el botón **Crear negocio**
+
+
+![Página de registro](../../../assets/negocios1.png)
+
+Dar clic en dicho botón se despliega el formulario de creación
+
+![Página de registro](../../../assets/crear-negocio-boton.png)
+
+
+## Formulario de creación ##
+
+
+**Datos generales del negocio**
 
 Completa los campos requeridos del negocio (*)
+
+![Página de registro](../../../assets/business-form-1.png)
 
 - Nombre del negocio
 - Correo electrónico asociado al negocio
 - Teléfono del responsable
 - Descripción del negocio
 
-![Página de registro](../../../assets/business-form-1.png)
+
 
 ### Configuraciones
 
@@ -55,6 +69,6 @@ Estos campos serán llenados con la información proporcionada por el Ministerio
 - Secuencia
 - Ambiente de destino (Prueba/ Producción)
 
-Si completo todos los cambios dar clic en el botón Guardar negocio, si no esta seguro dar clic en el botón Cancelar.
+Si completo todos los cambios dar clic en el botón **Guardar negocio**, si no esta seguro dar clic en el botón Cancelar.
 
 ![Página de registro](../../../assets/business-form-3.png)
