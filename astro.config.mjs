@@ -17,12 +17,12 @@ export default defineConfig({
 						},
 						{
 							label: 'Crear negocio', slug: 'started/create-business'
-						},{
+						}, {
 							label: 'Editar negocio', slug: 'started/editar-negocio'
 						},
 						{
 							label: 'Dashboard del negocio', slug: 'started/business-dashboard'
-						},{
+						}, {
 							label: 'Configuraciones del negocio', slug: 'started/configuraciones-negocio'
 						},
 
@@ -86,11 +86,11 @@ export default defineConfig({
 
 								{
 									label: 'Tipos de cliente', slug: 'started/tipos-clientes'
-								},{
+								}, {
 									label: 'Crear clientes', slug: 'started/crear-clientes'
-								},{
+								}, {
 									label: 'Editar clientes', slug: 'started/editar-cliente'
-								},{
+								}, {
 									label: 'Eliminar clientes', slug: 'started/eliminar--cliente'
 								},
 							]
@@ -102,9 +102,18 @@ export default defineConfig({
 				},
 
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Facturación paso a paso',
+					items:[
+						{
+					label: 'Inicio de sesión', slug: 'facturacion/inicio-facturacion'
+				},{
+					label: 'Acceso al sistema', slug: 'facturacion/acceder-sistema'
 				},
+
+					]
+
+				}, 
+
 			],
 		}),
 	],
