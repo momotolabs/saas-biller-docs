@@ -108,7 +108,10 @@ export default defineConfig({
 					label: 'Inicio de sesión', slug: 'facturacion/inicio-facturacion'
 				},{
 					label: 'Acceso al sistema', slug: 'facturacion/acceder-sistema'
+				},{
+					label: 'Menú principal', slug: 'facturacion/menu-principal'
 				},
+
 
 					]
 
