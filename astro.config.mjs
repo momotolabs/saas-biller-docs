@@ -110,6 +110,8 @@ export default defineConfig({
 					label: 'Acceso al sistema', slug: 'facturacion/acceder-sistema'
 				},{
 					label: 'Menú principal', slug: 'facturacion/menu-principal'
+				},{
+					label: 'Factura electrónica', slug: 'facturacion/generacion-felectronica'
 				},
 
 
