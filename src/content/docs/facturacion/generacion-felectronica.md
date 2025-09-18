@@ -23,7 +23,7 @@ Del modal desplegado, selecciona la opción **Factura**
 
 ![Página de registro](../../../biller/select.png)
 
-Luego haz clic en el botón **Continuar.**
+Luego haz clic en el botón **Confirmar.**
 
 ![Página de registro](../../../biller/confirmarbtn.png)
 
@@ -132,7 +132,7 @@ A continuación, seleccione el tipo de producto que desea registrar entre las si
 
 - Otro tipo de contribuciones
 
-## Añadir bienes o sevicios ##
+## Añadir productos o sevicios ##
 
 **Nota: La búsqueda de productos puede realizarse por descripción o código de producto:**
 
@@ -203,8 +203,141 @@ Al completar los campos requeridos debera dar clic en el botón **Guardar** y el
 
 En esta sección se define la forma en que se llevará a cabo la transacción. Para ello, es necesario seleccionar la condición de operación, la cual puede ser:
 
+
+![Página de registro](../../../biller/info-pago.png)
+
+
 - Contado
 
 - Crédito
 
 - Otro
+
+Posteriormente de haber realizado la selección de la Condicion de la operación, hay que **añadir un método de pago** desde el catálogo que se despliega. 
+![Página de registro](../../../biller/catalogo-pago.png)
+
+
+Luego dar clic en el botón **Guardar**
+
+![Página de registro](../../../biller/fpago.png)
+
+De forma inmediata se añade al modal de pago 
+
+![Página de registro](../../../biller/fpago1.png)
+
+De no seleccionar una opción de las requeridas, muestra el siguiente modal indicando que se debe seleccionar un método de pago 
+
+
+![Página de registro](../../../biller/observaciones.png)
+
+
+## Información adicional ##
+
+Esta sección permite registrar especificaciones complementarias vinculadas al tipo de documento a emitir. Las opciones disponibles son:
+
+![Página de registro](../../../biller/info-adicional.png)
+
+- Extensión
+
+- Venta a cuenta de terceros
+
+- Otros documentos asociados
+
+- Documentos relacionados
+
+El llenado de esta sección deberá realizarse conforme al modelo de negocio correspondiente. En caso de que la información no aplique a las operaciones del usuario, no será necesario completarla.
+
+
+## Extensión ##
+
+Para añadir la extensión de un cliente, es necesario completar los siguientes campos obligatorios (*):
+
+
+
+![Página de registro](../../../biller/extension.png)
+
+- Tipo de documento del receptor (*)
+
+- Número de identificación del receptor (DUI, NIT, Pasaporte, Carnet de residente, Otro) (*)
+
+**Nota: El número de documento debe ser veridico, de lo contrario el sistema le dira que es invalido**
+
+- Nombre del receptor (*)
+
+- Placa de vehículo (*)
+
+Una vez completados los campos, haga clic en el botón **Agregar extensión**
+
+![Página de registro](../../../biller/extension1.png)
+
+## Venta a terceros ##
+
+Si la generación del DTE no corresponde a una venta a cuenta de terceros, no será necesario completar esta sección. En caso contrario, cuando el DTE se emita a nombre de un tercero, deberán ingresarse los siguientes datos:
+
+![Página de registro](../../../biller/cterceros.png)
+
+- NIT
+
+- Nombre
+ 
+ Una vez completados los campos, haga clic en el botón **Guardar** y sera añadido al modal
+
+ ![Página de registro](../../../biller/terceros.png)
+
+ ## Documentos asociados ##
+
+ Los documentos asociados son requeridos en los siguientes casos:
+
+- Factura electrónica
+
+- Comprobante de crédito fiscal
+
+- Factura de exportación
+
+
+Estos documentos pueden estar vinculados a:
+
+- Emisor/Receptor
+
+- Médico
+
+**Emisor / Receptor:**
+
+Si se requiere asociar un documento que corresponde al Emisor o al Receptor se mostrará la siguiente pantalla al dar clic en el documento seleccionado
+
+- Emisor
+
+ ![Página de registro](../../../biller/emisor.png)
+
+ - Receptor
+
+  ![Página de registro](../../../biller/receptor.png)
+  
+  **Médico**
+
+  Cuando sea necesario asociar un documento que corresponda a un médico, al dar clic en el documento seleccionado se mostrará la pantalla correspondiente. **Esta opción aplica únicamente para el Comprobante de Crédito Fiscal y la Factura.**
+
+Para completar el registro, el usuario deberá llenar los siguientes campos obligatorios (*) y opcionales:
+
+  ![Página de registro](../../../biller/medico.png)
+
+- Documento asociado (*)
+
+- Servicio realizado (*)
+
+- Nombre del médico que prestó el servicio (*)
+
+- Descripción del documento asociado
+
+- Identificación del documento asociado
+
+- NIT del médico que prestó el servicio (*)
+
+Una vez ingresada la información requerida, **haga clic en el botón Agregar para guardar el documento asociado.**
+
+Al finalizar el llenado de los campos, **haga clic en el botón Guardar factura.**
+
+  ![Página de registro](../../../biller/gfactura.png)
+
+ De esta manera, la factura se generará correctamente y quedará lista para el proceso de sellado por parte del Ministerio de Hacienda.
+

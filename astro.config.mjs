@@ -112,6 +112,8 @@ export default defineConfig({
 					label: 'Menú principal', slug: 'facturacion/menu-principal'
 				},{
 					label: 'Factura electrónica', slug: 'facturacion/generacion-felectronica'
+				},{
+					label: 'Factura de exportación', slug: 'facturacion/generar-fexportacion'
 				},
 
 
