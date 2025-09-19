@@ -114,6 +114,10 @@ export default defineConfig({
 					label: 'Factura electrónica', slug: 'facturacion/generacion-felectronica'
 				},{
 					label: 'Factura de exportación', slug: 'facturacion/generar-fexportacion'
+				},{
+					label: 'Comprobante Crédito fiscal', slug: 'facturacion/generar-credito-fiscal'
+				},{
+					label: 'Factura de Sujeto excluido', slug: 'facturacion/generar-sujeto-excluido'
 				},
 
 

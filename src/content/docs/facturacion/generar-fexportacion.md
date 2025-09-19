@@ -32,7 +32,7 @@ Automáticamente se  despliega el formulario de creación de factura
 ![Página de registro](../../../biller/form-fexportacion.png)
 
 
-# Añadir cliente ##
+## Añadir cliente ##
 
 Para la emisión de una factura electrónica de exportación, el cliente es requerido de forma obligatoria y este debe ser de carácter extranjero
 
