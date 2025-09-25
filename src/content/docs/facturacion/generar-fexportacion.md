@@ -167,6 +167,13 @@ De forma inmediata se añade al modal de pago
 
 ![Página de registro](../../../biller/pagoexpo1.png)
 
+De no seleccionar una opción de las requeridas, muestra el siguiente modal indicando que se debe seleccionar un método de pago 
+
+
+![Página de registro](../../../biller/observaciones.png)
+
+
+
 ## Añadir información adicional ##
 
 En esta sección se pueden registrar especificaciones especiales relacionadas con el tipo de documento a emitir. Las opciones disponibles son:

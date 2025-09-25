@@ -118,6 +118,8 @@ export default defineConfig({
 					label: 'Comprobante Crédito fiscal', slug: 'facturacion/generar-credito-fiscal'
 				},{
 					label: 'Factura de Sujeto excluido', slug: 'facturacion/generar-sujeto-excluido'
+				},{
+					label: 'Anulaciones', slug: 'facturacion/anulaciones'
 				},
 
 

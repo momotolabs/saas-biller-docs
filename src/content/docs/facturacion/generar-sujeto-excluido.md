@@ -16,7 +16,178 @@ Para crear una nueva factura, dar clic en la sección facturas que se encuentra 
 
  ![Página de registro](../../../biller/modal-factura.png)
 
+
+
+ ## Seleccción tipo de factura ##
+
+Del modal desplegado, selecciona la opción **Factura de sujeto excluido**
+
  ![Página de registro](../../../biller/sujeto-excluido.png)
+
+ Luego haz clic en el botón **Confirmar.**
+
+![Página de registro](../../../biller/confirmarbtn.png)
+
+
+## Llenado de  Formulario Factura de Sujeto excluido ##
+
+Automáticamente se  despliega el formulario de creación de factura
+
+![Página de registro](../../../biller/excluido.png)
+
+## Añadir cliente ##
+
+Para la emisión de una factura electrónica de exportación, el cliente es requerido de forma obligatoria y este debe ser de carácter extranjero
+
+El formulario para añadir un cliente se despliega al hacer clic en el botón **“Añadir cliente”.**
+
+![Página de registro](../../../biller/add-cliente.png)
+
+Al hacer clic en el botón “Añadir cliente”, se despliega un formulario adicional. En este, **si el cliente ya existe, puede buscarse ingresando su número de documento de identidad,NRC u otro documento**
+En caso de que no exista, es posible crear un nuevo registro desde cero, seleccionando el tipo de cliente correspondiente: Natural o Jurídico.
+
+![Página de registro](../../../biller/add-cliente1.png)
+
+## Añadir Cliente Natural ##
+
+Para registrar un cliente natural es necesario completar el siguiente formulario, que solicita los campos indicados (los marcados con * son obligatorios):
+
+
+El cliente natural solicita los siguientes campos requeridos (*)
+
+-	Nombre (*)
+
+-	Tipo de documento (NIT, DUI, Pasaporte, Otro, Carnet de residente) (*)
+
+-	Dirección de correo electrónico (*)
+
+**Nota aclaratoria: este es único para cada cliente, no puede usarse para registrar clientes diferentes con el mismo correo, cada cliente debe tener un correo diferente, si es personal o de uso comercial (empresa)**
+
+-	Departamento (*)
+
+-	Municipio (*)
+
+-	Dirección (*)
+
+![Página de registro](../../../biller/natural-excluido.png)
+
+## Añadir cliente jurídico ##
+
+El cliente jurídico solicita los siguientes campos requeridos (*)
+
+-	Nombre (*)
+
+-	NRC (*)
+
+-	NIT (*)
+
+-	Teléfono (*)
+
+-	Nombre comercial (*)
+
+-	Correo electrónico (*)
+
+**Nota aclaratoria: este es único para cada cliente, no puede usarse para registrar clientes diferentes con el mismo correo, cada cliente debe tener un correo diferente, si es personal o de uso comercial (empresa)**
+
+-	Actividad económica (*)
+
+-	Departamento (*)
+
+-	Municipio (*)
+
+-	Dirección (*)
+
+![Página de registro](../../../biller/juridico-excluido.png)
+
+
+## Añadir productos ##
+
+Para añadir un producto, haga clic en el botón **“Añadir producto”.**
+
+![Página de registro](../../../biller/add-producto.png)
+
+Selecciona Producto o servicio
+
+![Página de registro](../../../biller/producto2.png)
+
+## Añadir productos o sevicios ##
+
+**Nota: La búsqueda de productos puede realizarse por descripción o código de producto:**
+
+Para añadir un producto como bien o servicio, el sistema solicita completar los siguientes campos: 
+
+**Los campos marcados con (*) son obligatorios.**
+
+![Página de registro](../../../biller/producto-excluido.png)
+
+-	Cantidad (*)
+
+-	Precio unitario (*)
+
+-	Tipo de venta (gravada, exenta, no sujeta) (*)
+
+-	Monto de descuento
+
+-	Total (*)
+
+![Página de registro](../../../biller/añadido-excluido.png)
+
+
+## Añadir información de pago ##
+
+En esta sección se define la forma en que se llevará a cabo la transacción. Para ello, es necesario seleccionar la condición de operación, la cual puede ser:
+
+
+![Página de registro](../../../biller/pago-excluido.png)
+
+
+- Contado
+
+- Crédito
+
+- Otro
+
+## Descuentos Impuesto del Valor Agregado (IVA) e Impuesto Sobre la Renta (ISR)
+
+Aquí se incluyen dos Switch para añadirle Impuesto sobre la renta o Impuesto de valor agregado (IVA)
+
+
+
+![Página de registro](../../../biller/switch.png)
+
+Al activar los switches automáticamente los descuentos se ven reflejados en el total a pagar
+
+![Página de registro](../../../biller/isr-iva.png)
+
+## Añadir pago ##
+
+Posteriormente de haber realizado la selección de la Condicion de la operación, hay que **añadir un método de pago** desde el catálogo que se despliega. 
+
+![Página de registro](../../../biller/catalogo-pago.png)
+
+Luego dar clic en el botón **Agregar**
+
+![Página de registro](../../../biller/pagoex.png)
+
+De forma inmediata se añade al modal de pago 
+
+![Página de registro](../../../biller/excluido1.png)
+
+De no seleccionar una opción de las requeridas, muestra el siguiente modal indicando que se debe seleccionar un método de pago 
+
+
+![Página de registro](../../../biller/observaciones.png)
+
+Al finalizar el llenado de los campos, **haga clic en el botón Guardar factura.**
+
+
+![Página de registro](../../../biller/gfactura.png)
+
+ De esta manera, la factura se generará correctamente y quedará lista para el proceso de sellado por parte del Ministerio de Hacienda.
+
+
+
+
 
 
 
