@@ -177,6 +177,67 @@ Se pueden realizar filtro de docuentos por su tipo:
 
 ![Página de registro](../../../biller/filtrodoc.png)
 
+Asi mismo se pueden filtrar facturas por motivos de anulación:
+
+
+![Página de registro](../../../biller/motivos.png)
+
+
+## ¿Comó reemplazar una factura anulada? ##
+
+Ingresar al menú principal, y dar clic en la sección de facturas
+
+
+
+![Página de registro](../../../biller/facturas2.png)
+
+
+En la pantalla que se despliega posicionarse en la factura que se desea anular y dar clic en el icono de anulación
+
+![Página de registro](../../../biller/anulardoc.png)
+
+En la pantalla donde se muestran datos de la factura a anular, en la sección de motivo de anulación, seleccionar la opción **otro**
+
+![Página de registro](../../../biller/otro.png)
+
+Se habilita el campo : **Documento que lo reemplaza**
+
+Del listado que se muestra seleccionar el documento con el cual se va a reemplazar
+
+![Página de registro](../../../biller/listaanular.png)
+
+Completar los campos requeridos que falta completar:
+
+- Motivo de la anulación 
+
+- Nombre del solicitante 
+
+- Tipo de documento del solicitante 
+
+- Número de documento del solicitante
+
+Al completar todos los datos del formulario 
+
+![Página de registro](../../../biller/anularf.png)
+
+dar clic en el botón **Anular documento**
+
+![Página de registro](../../../biller/botonanular.png)
+
+Se muestra el siguiente mensaje: 
+
+
+![Página de registro](../../../biller/anularmensaje.png)
+
+
+**Nota aclaratoria: El documento que reemplazara deber ser del mismo tipo**
+
+
+
+
+
+
+
 
 
  

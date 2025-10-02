@@ -76,6 +76,9 @@ export default defineConfig({
 								}, {
 									label: 'Editar empleado', slug: 'started/editar-empleado'
 								},
+								{
+									label: 'Restablecer contraseña empleado', slug: 'started/restablecer-contraemp'
+								},
 							]
 						},
 
@@ -120,6 +123,8 @@ export default defineConfig({
 					label: 'Factura de Sujeto excluido', slug: 'facturacion/generar-sujeto-excluido'
 				},{
 					label: 'Anulaciones', slug: 'facturacion/anulaciones'
+				},{
+					label: 'Contingencias', slug: 'facturacion/contingencias'
 				},
 
 

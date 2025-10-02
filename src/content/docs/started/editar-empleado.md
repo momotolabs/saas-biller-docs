@@ -43,6 +43,12 @@ Automáticamente se muestra un mensaje indicando que el empleado fue actualizado
 
 ![Página de registro](../../../assets/actualizacion-ok.png)
 
+
+
 Si no esta seguro de aplicar los cambios dar clic en el botón Cancelar
 
 ![Página de registro](../../../assets/cancelar.png)
+
+
+
+
