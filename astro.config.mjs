@@ -106,31 +106,46 @@ export default defineConfig({
 
 				{
 					label: 'Facturación paso a paso',
-					items:[
+					items: [
 						{
-					label: 'Inicio de sesión', slug: 'facturacion/inicio-facturacion'
-				},{
-					label: 'Acceso al sistema', slug: 'facturacion/acceder-sistema'
-				},{
-					label: 'Menú principal', slug: 'facturacion/menu-principal'
-				},{
-					label: 'Factura electrónica', slug: 'facturacion/generacion-felectronica'
-				},{
-					label: 'Factura de exportación', slug: 'facturacion/generar-fexportacion'
-				},{
-					label: 'Comprobante Crédito fiscal', slug: 'facturacion/generar-credito-fiscal'
-				},{
-					label: 'Factura de Sujeto excluido', slug: 'facturacion/generar-sujeto-excluido'
-				},{
-					label: 'Anulaciones', slug: 'facturacion/anulaciones'
-				},{
-					label: 'Contingencias', slug: 'facturacion/contingencias'
-				},
+							label: 'Inicio de sesión', slug: 'facturacion/inicio-facturacion'
+						}, {
+							label: 'Acceso al sistema', slug: 'facturacion/acceder-sistema'
+						}, {
+							label: 'Menú principal', slug: 'facturacion/menu-principal'
+						}, {
+							label: 'Factura electrónica', slug: 'facturacion/generacion-felectronica'
+						}, {
+							label: 'Factura de exportación', slug: 'facturacion/generar-fexportacion'
+						}, {
+							label: 'Comprobante Crédito fiscal', slug: 'facturacion/generar-credito-fiscal'
+						}, {
+							label: 'Factura de Sujeto excluido', slug: 'facturacion/generar-sujeto-excluido'
+						}, {
+							label: 'Anulaciones', slug: 'facturacion/anulaciones'
+
+						}, {
+							label: 'Contingencias paso a paso',
+							items: [
+
+							{ label: 'Generalidades de las contingencias', slug: 'facturacion/contingencias' }
+							]
+						},{
+							    label: 'Documentos pendientes', slug: 'facturacion/doc-pendientes'
+
+						},{
+							    label: 'Crear eventos de contingencia', slug: 'facturacion/eventos-contingencia'
+
+						},{
+							    label: 'Procesar evento de contingencia', slug: 'facturacion/procesar-contingencia'
+
+						},
+
 
 
 					]
 
-				}, 
+				},
 
 			],
 		}),

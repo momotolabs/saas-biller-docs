@@ -69,33 +69,4 @@ En esta sección se tiene acceso a:
  - Listado de documentos pendientes
 
 
- ## Listado de documentos pendientes ##
-
-
-![Página de registro](../../../biller/pendientes.png)
-
-Está tabla posee los siguientes campos:
-
-- Tipo de factura 
-
-- Código de generación
-
-- Nombre del cliente
-
-- Fecha y hora de emisión
-
-- Acciones (Ver documento)
-
-## Búsqueda de documentos por código de generación ##
-
-Para agilizar la búsqueda de documentos, estos pueden localizarse utilizando su código de generación, mediante la siguiente casilla:
-
-![Página de registro](../../../biller/generacion.png)
-
-
-
-
-
-
-
-
+ 
