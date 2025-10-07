@@ -13,7 +13,7 @@ Al anular una factura se debe:
 
 - En caso necesario, emitir una nueva factura con la información corregida
 
-## ¿Comó anular un documento? ##
+### ¿Comó anular un documento? ###
 
 Para poder anular una factura, hay que posicionarse en el menú principal, y dar clic en la sección Facturas
 
@@ -25,7 +25,7 @@ Del listado de facturas desplegado, ubique la factura correspondiente. Luego, en
 
 Aparecera la siguiente pantalla 
 
-## Datos generales ##
+### Datos generales ###
 
 La factura puede anularse por diferentes motivos. 
 
@@ -46,7 +46,7 @@ El formulario de anulación mostrará la información de la factura seleccionada
 ![Página de registro](../../../biller/anularp.png)
 
 
-## Llenado de formulario de anulación ##
+### Llenado de formulario de anulación ###
 
 Se solicita: 
 
@@ -72,7 +72,7 @@ Se muestra un mensaje que indica que la Factura fue anulada con éxito
 
 ![Página de registro](../../../biller/anular2.png)
 
-## Listado de facturas anuladas ##
+### Listado de facturas anuladas ###
 
 Luego de haber completado el proceso de anulación del documento este sera visualizado desde la sección de anulaciones que se encuentra en el menú principal 
 
@@ -95,7 +95,7 @@ Se detalla la anulación por:
 
 - Fecha y hora de la anulación
 
-## Accciones ##
+### Accciones ###
 
 Dentro de la vista de facturas anuladas existen acciones que se pueden ejecutar en relación a los documentos invalidados 
 
@@ -106,7 +106,7 @@ Dentro de la vista de facturas anuladas existen acciones que se pueden ejecutar 
  - Ver documento 
 
  
- ## Ver detalles de anulación ##
+ ### Ver detalles de anulación ###
 
  Para ver detalles del documento anulado hay que dar clic en el siguiente 
 
@@ -156,7 +156,7 @@ Esta pantalla contiene:
 
 - Número de documento del responsable 
 
-## Ver documento anulado ##
+### Ver documento anulado ###
 
 Para visualizar el documento anulado dar clic en el siguiente icono:
 
@@ -166,7 +166,7 @@ Se muestra la vista previa de la factura con un indicador en color rojo que señ
 
 ![Página de registro](../../../biller/anulada.png)
 
-## Filtro y búsqueda de facturas anuladas ##
+### Filtro y búsqueda de facturas anuladas ###
 
 Para agilizar la localización de documentos, el sistema permite realizar búsquedas mediante el código de generación, mediante la siguiente casilla de búsqueda:
 
@@ -183,7 +183,7 @@ Asi mismo se pueden filtrar facturas por motivos de anulación:
 ![Página de registro](../../../biller/motivos.png)
 
 
-## ¿Comó reemplazar una factura anulada? ##
+### ¿Comó reemplazar una factura anulada? ###
 
 Ingresar al menú principal, y dar clic en la sección de facturas
 

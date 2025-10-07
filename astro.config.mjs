@@ -139,6 +139,9 @@ export default defineConfig({
 						},{
 							    label: 'Procesar evento de contingencia', slug: 'facturacion/procesar-contingencia'
 
+						},{
+							    label: 'Editar evento de contingencia', slug: 'facturacion/edit-contingencia'
+
 						},
 
 

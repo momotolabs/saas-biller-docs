@@ -20,6 +20,8 @@ Al ingresar a la URL: https://biller.momotolabs.com
 
 ### Restablecer contraseña ###
 
+**Nota: Esta opción es aplicable solamente para el perfil de administrador del negocio, la contraseña del empleado se restablecera desde la administración de empleados**
+
 - Olvidaste tu contraseña: si el usuario no recuerda su clave de acceso, puede dar clic en este enlace para abrir la pantalla de recuperación 
 
 ![Página de registro](../../../biller/olvidaste-contraseña.png)

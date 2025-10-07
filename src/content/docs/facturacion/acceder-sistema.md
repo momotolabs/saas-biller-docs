@@ -15,7 +15,7 @@ Al ingresar el código de empleado y la nueva contraseña se genera el cambio y 
 
 ![Página de registro](../../../biller/nuevo-inicio.png)
 
-## Selección de Sucursal y Punto de venta para acceder al sistema ##
+### Selección de Sucursal y Punto de venta para acceder al sistema ###
 
 Al iniciar sesión como Operativo o Gerente con sus credenciales, el sistema despliega una pantalla en la que se debe seleccionar la sucursal y el punto de venta asignados previamente desde la sección del Administrador. Es obligatorio elegir una opción en cada campo para poder acceder al factura
 
@@ -31,11 +31,11 @@ Una vez seleccionada la sucursal y el punto de venta, al dar clic en el **botón
 
 Se explicara detalladamente cada sección del facturador 
 
-## Dashboard principal del facturador ##
+### Dashboard principal del facturador ###
 
 El Dashboard principal del facturador muestra los siguientes elementos:
 
-## Banner indicador de entorno ##
+### Banner indicador de entorno ###
 
  Se muestra en la parte superior de la pantalla y permite identificar en qué entorno está funcionando el sistema:
 
@@ -50,7 +50,7 @@ El Dashboard principal del facturador muestra los siguientes elementos:
 
 Este indicador ayuda a los usuarios a trabajar con mayor seguridad, evitando confusiones entre pruebas y operaciones oficiales.
 
-## Banner de Bienvenida ##
+### Banner de Bienvenida ###
 
 Al acceder al sistema, se muestra un banner de bienvenida que incluye:
 
@@ -63,7 +63,7 @@ Sucursal correspondiente donde se encuentra logueado.
 
 Descripción breve de las opciones disponibles en la parte inferior, para guiar al usuario en la navegación.
 
-## Quick actions (Acciones rápidas) ##
+### Quick actions (Acciones rápidas) ###
 
 Son accesos directos disponibles en el dashboard que permiten ejecutar de forma ágil las principales tareas del sistema, como:
 

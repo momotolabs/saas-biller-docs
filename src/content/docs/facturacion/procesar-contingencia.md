@@ -15,6 +15,8 @@ Posiconarse en el evento a procesar
 
 Se muestra automáticamente los detalles de este evento de contingencia
 
+### Detalles del evento de contingencia ###
+
 ![Página de registro](../../../biller/detalles-eventoc.png)
 
 En este evento se detallan los siguientes campos:
@@ -46,15 +48,49 @@ Al verificar que todos los detalles mostrados don correctos, dar clic en el bot�
 
 ![Página de registro](../../../biller/btncontingencia.png)
 
+Si la contingencia fue aprobada se mostrara el siguiente mensaje
+
 ![Página de registro](../../../biller/aprobada.png)
 
-Se muestra la siguiente ventana que indica que hay documentos por procesar: 
+Pero si la contingencia no se procesa de manera automática y aún hay documentos por procesar se muestra el siguiente mensaje 
+
+![Página de registro](../../../biller/evento-por-procesar.png)
 
 
+### Procesar contingencia pendiente ###
+
+Para poder **enviar la contingencia** dar clic en el siguiente icono en acciones :
+
+![Página de registro](../../../biller/process.png)
+
+El documento será enviado y se mostrará un mensaje de confirmación indicando que la contingencia se ha completado correctamente.
+
+![Página de registro](../../../biller/aprobadaconti.png)
+
+y se visualiza en cambio de estatus en los documentos a **Aprobada**
+
+![Página de registro](../../../biller/cambio-status.png)
+
+De forma inmediata el documento se sella por parte del Ministerio de Hacienda
+
+![Página de registro](../../../biller/sellado-firmado.png)
+
+### Correo de notificación de recepción de la factura ###
+
+El cliente recibe tambien en su correo la notificación que el documento fue recibido y esta listo para su verificación
+
+![Página de registro](../../../biller/correonoti.png)
+
+En el listado de eventos se muestra con estado **Completado** 
 
 
+![Página de registro](../../../biller/status.png)
 
+### Contingencia rechazada ###
 
+Pero si el Ministerio de Hacienda **no acepta** la solicitud, este devuelve el estatus **Rechazado y sin sello**
+
+![Página de registro](../../../biller/rechazado.png)
 
 
 
