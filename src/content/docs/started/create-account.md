@@ -43,3 +43,5 @@ Una vez creada la cuenta veras la siguiente pantalla.
 
 ![Página de registro](../../../assets/dashboard-init.png)
 
+el siguiente paso es **crear el negocio**
+
