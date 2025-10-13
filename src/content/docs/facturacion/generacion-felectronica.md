@@ -28,7 +28,6 @@ Luego haz clic en el botón **Confirmar.**
 ![Página de registro](../../../biller/confirmarbtn.png)
 
 
-
 ## Llenado de  Formulario Factura electrónica ##
 
 Automáticamente se  despliega el formulario de creación de factura
@@ -39,14 +38,41 @@ Automáticamente se  despliega el formulario de creación de factura
 
 Para la emisión de una factura electrónica, **el registro del cliente no siempre es obligatorio. Solo será requerido cuando el monto de la factura supere los veinticinco mil dólares,aplicable únicamente a este tipo de factura.** En los demás casos, el ingreso de los datos del cliente es obligatorio.
 
-El formulario para añadir un cliente se despliega al hacer clic en el botón **“Añadir cliente”.**
+Al hacer clic en el botón **“Añadir cliente”.**
 
-![Página de registro](../../../biller/add-cliente.png)
+![Página de registro](../../../biller/cliente.png) 
 
-Al hacer clic en el botón “Añadir cliente”, se despliega un formulario adicional. En este, **si el cliente ya existe, puede buscarse ingresando su número de documento de identidad.**
-En caso de que no exista, es posible crear un nuevo registro desde cero, seleccionando el tipo de cliente correspondiente: Natural o Jurídico.
+ Se despliega el siguiente modal de búsqueda, para verificar si el cliente ya a sido registrado 
 
-![Página de registro](../../../biller/add-cliente1.png)
+![Página de registro](../../../biller/add-cliente.png) 
+
+Si ya existe un cliente previamente registrado, se puede realizar búsqueda mediante los siguientes parametros:
+
+- Nombre o coincidencia 
+- Número de NIT
+- Número de NRC
+- Número de cualquier otro documento
+
+Si existe el registro previo de un cliente, se muestra el resultado de la siguiente manera:
+
+![Página de registro](../../../biller/new-modal.png) 
+
+Se selecciona el cliente, y se muestra el siguiente formulario con la información del registro
+
+![Página de registro](../../../biller/add-formc.png) 
+
+En caso de que no exista el registro se muestra el siguiente mensaje
+
+![Página de registro](../../../biller/not-found.png) 
+
+
+ Donde aqui se habilita la opción crear un nuevo registro desde cero, dando clic en el botón 
+
+ 
+![Página de registro](../../../biller/btn-register.png)
+
+
+ Donde se seleccionando el tipo de cliente correspondiente: Natural o Jurídico.
 
 ## Añadir cliente natural: ##
 
@@ -140,23 +166,60 @@ Para añadir un producto como bien o servicio, el sistema solicita completar los
 
 **Los campos marcados con (*) son obligatorios.**
 
-![Página de registro](../../../biller/product-servicio.png)
+![Página de registro](../../../biller/producto01.png)
 
-- Cantidad (*)
+-	Cantidad (*)
 
-- Precio unitario (*)
+-	Precio unitario (*)
 
-- Tipo de venta (*): gravada, exenta o no sujeta
+-	Tipo de venta (gravada, exenta, no sujeta) (*)
 
-- Monto de descuento
+-	Monto de descuento
 
-- Total (*)
+-	Total (*)
+
+Al completar los campos dar clic en el botón **Añadir**
+
+![Página de registro](../../../biller/añadido-excluido.png)
 
 
-Al completar los campos requeridos debera dar clic en el botón **Guardar** y el producto sera añadido al modal
+### Añadir producto de forma directa al modal, sin previo registro ###
 
-![Página de registro](../../../biller/producto1.png)
+Al dar clic en el botón **Añadir producto**, en el modal que se despliega , en la parte superior derecha se muestra el botón **Agregar nuevo producto**
 
+**Nota aclaratoria: Los productos añadidos desde esta sección no se guardarán en la lista general de productos, ya que son registrados únicamente para uso puntual dentro de la operación actual.**
+
+![Página de registro](../../../biller/add-np.png)
+ 
+ Se despliega el formulario para añadir producto
+
+ ![Página de registro](../../../biller/single-usep.png)
+
+ Donde al igual que con el formulario de productos previamente registrados hay que completar los siguientes campos obligatorios: 
+
+- Producto (Nombre del producto o descripción)
+
+- Tipo de ítem (Bienes, servicios, ambos)
+
+- Código del producto
+
+- Unidad de medida (seleccionarla del católogo)
+
+-	Cantidad (*)
+
+-	Precio unitario (*)
+
+-	Tipo de venta (gravada, exenta, no sujeta) (*)
+
+-	Monto de descuento
+
+-	Total (*)
+
+Al completar los campos dar clic en el botón **Añadir** 
+
+ ![Página de registro](../../../biller/añadirbtn.png)
+
+ el producto sera añadido al modal para continuar con el siguiente paso
 
 ## Añadir ítems no afectos ##
 
