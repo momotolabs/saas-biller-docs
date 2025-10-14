@@ -72,3 +72,5 @@ Estos campos serán llenados con la información proporcionada por el Ministerio
 Si completo todos los cambios dar clic en el botón **Guardar negocio**, si no esta seguro dar clic en el botón Cancelar.
 
 ![Página de registro](../../../assets/business-form-3.png)
+
+Despues de crear el negocio sera redirigido al **Dashboard del negocio**

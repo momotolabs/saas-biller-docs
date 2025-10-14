@@ -17,26 +17,26 @@ export default defineConfig({
 						},
 						{
 							label: 'Crear negocio', slug: 'started/create-business'
-						}, {
-							label: 'Editar negocio', slug: 'started/editar-negocio'
-						},
-						{
+						},{
 							label: 'Dashboard del negocio', slug: 'started/business-dashboard'
 						}, {
 							label: 'Configuraciones del negocio', slug: 'started/configuraciones-negocio'
+						},{
+							label: 'Editar negocio', slug: 'started/editar-negocio'
 						},
+						 
 
 						{
 							label: 'Sucursales',
 							items: [
 								{
 									label: 'Crear sucursal', slug: 'started/create-branch'
+								},{
+									label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
 								},
 								{
 									label: 'Editar sucursal', slug: 'started/edit-branch'
-								}, {
-									label: 'Asignar/Desasignar sucursal', slug: 'started/asign-employe'
-								},]
+								}, ]
 						},
 						{
 							label: 'Puntos de venta',
