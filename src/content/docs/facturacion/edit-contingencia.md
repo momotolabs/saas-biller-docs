@@ -25,9 +25,9 @@ Al dar clic en este botón se despliega el formulario de edición
 En esta sección se pueden editar los siguientes campos:
 
 
-- tipo de contingencia 
-- motivo de contingencia
-- fecha de inicio de la contingencia
+- Tipo de contingencia 
+- Motivo de contingencia
+- Fecha de inicio de la contingencia
 - Hora de inicio
 - Fecha de fin de la contingencia
 - Hora de fin   
