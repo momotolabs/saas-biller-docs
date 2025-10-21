@@ -36,6 +36,8 @@ export default defineConfig({
 								},
 								{
 									label: 'Editar sucursal', slug: 'started/edit-branch'
+								},{
+									label: 'Ver facturas generadas', slug: 'started/vista-facturas'
 								}, ]
 						},
 						{
