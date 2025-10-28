@@ -34,6 +34,8 @@ Al cliente **natural** se le pueden editar los siguientes campos:
 
 - ¿El cliente es contribuyente ? si no es puede pasar a serlo; activando el switch (Se habilitaran campos NIT,NRC y actividad economica)
 
+- El cliente puede ser gran contribuyente si no lo es (debe activar el switch)
+
 - Tipo de documento (DUI, NIT, Carnet de residente, Pasaporte, Otro)
 
 -  Número de documento (Según el documento selecionado)
@@ -71,6 +73,7 @@ Al cliente **natural contribuyente** se le pueden editar los siguientes campos:
 
 - ¿El cliente es contribuyente ? si lo es puede dejar de serlo; desactivando el switch (Se ocultaran campos NIT,NRC y actividad economica)
 
+- El cliente puede ser gran contribuyente si no lo es (debe activar el switch)
 
 - Tipo de documento (NIT por defecto unicamente)
 
@@ -115,6 +118,8 @@ Al cliente **natural extranjero** se le pueden editar los siguientes campos:
 
 - ¿El cliente es extranjero ? si lo es puede dejar de serlo; desactivando el switch (Se ocultaran campos Nombre comercial,actividad economica, país)
 
+- El cliente puede ser gran contribuyente si no lo es (debe activar el switch)
+
 - Nombre comercial
 
 - Tipo de documento (Pasaporte, Carnet de residente, Otro)
@@ -153,6 +158,8 @@ Al cliente **Jurídico** se le pueden editar los siguientes campos:
 
 
 - Tipo de cliente (El cliente jurídico puede pasar a ser natural)
+
+- El cliente puede ser gran contribuyente si no lo es (debe activar el switch)
 
 - Nombre del cliente (Si hubo algun error de ortografia)
 
@@ -195,6 +202,8 @@ Si no esta seguro de aplicar cambios dar clic en el botón **Regresar**
 Al cliente **Jurídico** se le pueden editar los siguientes campos:
 
 - ¿El cliente es extranjero? activar el switch (Desaparecen los campos de NIT, NRC)
+
+- El cliente puede ser gran contribuyente si no lo es (debe activar el switch)
 
 - Tipo de cliente (El cliente jurídico puede pasar a ser natural)
 

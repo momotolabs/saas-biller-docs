@@ -28,12 +28,19 @@ Para poder crear un cliente de indole **Natural** se deben completar los siguien
 
 ![Página de registro](../../../assets/form-cliente.png)
 
-**Datos Generales**
+### Datos Generales ###
 
-¿El cliente es extranjero?
+**¿El cliente es extranjero?**
+
 Para este tipo de cliente (Persona Natural), el switch debe permanecer desactivado.
 
 ![Página de registro](../../../assets/swicth.png)
+
+**¿El cliente es gran contribuyente?**
+
+Contribuyente basado en un regimen especial del código tributario, obligado a generar retenciones del 1% de IVA. Si es gran contribuyente el switch debe permanecer activado
+
+![Página de registro](../../../assets/switch-gcontribuyente.png)
 
 - **Tipo de cliente**
 El sistema muestra automáticamente "Persona Natural"; debe dejarlo así como aparece.
@@ -101,12 +108,19 @@ Para poder crear un cliente de indole **Natural Contribuyente** se deben complet
 
 ![Página de registro](../../../assets/ncontribuyente.png)
 
-**Datos Generales**
+### Datos Generales ###
 
 ¿El cliente es extranjero?
 Para este tipo de cliente (Persona Natural), el switch debe permanecer desactivado.
 
 ![Página de registro](../../../assets/swicth.png)
+
+**¿El cliente es gran contribuyente?**
+
+Contribuyente basado en un regimen especial del código tributario, obligado a generar retenciones del 1% de IVA. Si es gran contribuyente el switch debe permanecer activado
+
+![Página de registro](../../../assets/switch-gcontribuyente.png)
+
 
 - **Tipo de cliente**
 El sistema muestra automáticamente "Persona Natural"; debe dejarlo así como aparece.
@@ -186,7 +200,14 @@ Activar el switch
 
 Al activarlo, se mostrarán campos específicos para clientes extranjeros.
 
-Datos Generales
+**¿El cliente es gran contribuyente?**
+
+Contribuyente basado en un regimen especial del código tributario, obligado a generar retenciones del 1% de IVA. Si es gran contribuyente el switch debe permanecer activado
+
+![Página de registro](../../../assets/switch-gcontribuyente.png)
+
+
+### Datos Generales ###
 
 - **Tipo de cliente**
 
@@ -257,7 +278,14 @@ Para poder crear un cliente de indole **Juridico** se deben completar los siguie
 
 Para este tipo de cliente, el switch debe permanecer desactivado.
 
-Datos Generales
+**¿El cliente es gran contribuyente?**
+
+Contribuyente basado en un regimen especial del código tributario, obligado a generar retenciones del 1% de IVA. Si es gran contribuyente el switch debe permanecer activado
+
+![Página de registro](../../../assets/switch-gcontribuyente.png)
+
+
+### Datos Generales ###
 
 - **Tipo de cliente**
 
@@ -329,8 +357,14 @@ Al activarlo se mostraran campos especificos para personas extranjeras
 
 ![Página de registro](../../../assets/extranjeroswitch.png)
 
+**¿El cliente es gran contribuyente?**
 
-Datos generales:
+Contribuyente basado en un regimen especial del código tributario, obligado a generar retenciones del 1% de IVA. Si es gran contribuyente el switch debe permanecer activado
+
+![Página de registro](../../../assets/switch-gcontribuyente.png)
+
+
+### Datos generales: ###
 
 **Tipo de cliente***
 
